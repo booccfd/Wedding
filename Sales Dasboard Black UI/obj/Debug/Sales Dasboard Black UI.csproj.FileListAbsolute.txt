@@ -1,0 +1,16 @@
+C:\Users\Joonior\Documents\Visual Studio 2015\Projects\SampleWindow V03_WindowMenuAddNewPop\Sales Dasboard Black UI\bin\Debug\Sales Dasboard Black UI.exe.config
+C:\Users\Joonior\Documents\Visual Studio 2015\Projects\SampleWindow V03_WindowMenuAddNewPop\Sales Dasboard Black UI\obj\Debug\Sales Dasboard Black UI.exe
+C:\Users\Joonior\Documents\Visual Studio 2015\Projects\SampleWindow V03_WindowMenuAddNewPop\Sales Dasboard Black UI\obj\Debug\Sales Dasboard Black UI.pdb
+C:\Users\Joonior\Documents\Visual Studio 2015\Projects\SampleWindow V03_WindowMenuAddNewPop\Sales Dasboard Black UI\bin\Debug\Sales Dasboard Black UI.exe
+C:\Users\Joonior\Documents\Visual Studio 2015\Projects\SampleWindow V03_WindowMenuAddNewPop\Sales Dasboard Black UI\bin\Debug\Sales Dasboard Black UI.pdb
+C:\Users\Joonior\Documents\Visual Studio 2015\Projects\SampleWindow V03_WindowMenuAddNewPop\Sales Dasboard Black UI\obj\Debug\Sales Dasboard Black UI.csprojResolveAssemblyReference.cache
+C:\Users\Joonior\Documents\Visual Studio 2015\Projects\SampleWindow V03_WindowMenuAddNewPop\Sales Dasboard Black UI\obj\Debug\Sales_Dasboard_Black_UI.AddNew.resources
+C:\Users\Joonior\Documents\Visual Studio 2015\Projects\SampleWindow V03_WindowMenuAddNewPop\Sales Dasboard Black UI\obj\Debug\Sales_Dasboard_Black_UI.app01.resources
+C:\Users\Joonior\Documents\Visual Studio 2015\Projects\SampleWindow V03_WindowMenuAddNewPop\Sales Dasboard Black UI\obj\Debug\Sales_Dasboard_Black_UI.app02.resources
+C:\Users\Joonior\Documents\Visual Studio 2015\Projects\SampleWindow V03_WindowMenuAddNewPop\Sales Dasboard Black UI\obj\Debug\Sales_Dasboard_Black_UI.Board.resources
+C:\Users\Joonior\Documents\Visual Studio 2015\Projects\SampleWindow V03_WindowMenuAddNewPop\Sales Dasboard Black UI\obj\Debug\Sales_Dasboard_Black_UI.homeView.resources
+C:\Users\Joonior\Documents\Visual Studio 2015\Projects\SampleWindow V03_WindowMenuAddNewPop\Sales Dasboard Black UI\obj\Debug\Sales_Dasboard_Black_UI.Login.resources
+C:\Users\Joonior\Documents\Visual Studio 2015\Projects\SampleWindow V03_WindowMenuAddNewPop\Sales Dasboard Black UI\obj\Debug\Sales_Dasboard_Black_UI.menu.resources
+C:\Users\Joonior\Documents\Visual Studio 2015\Projects\SampleWindow V03_WindowMenuAddNewPop\Sales Dasboard Black UI\obj\Debug\Sales_Dasboard_Black_UI.popAddNew01.resources
+C:\Users\Joonior\Documents\Visual Studio 2015\Projects\SampleWindow V03_WindowMenuAddNewPop\Sales Dasboard Black UI\obj\Debug\Sales_Dasboard_Black_UI.Properties.Resources.resources
+C:\Users\Joonior\Documents\Visual Studio 2015\Projects\SampleWindow V03_WindowMenuAddNewPop\Sales Dasboard Black UI\obj\Debug\Sales Dasboard Black UI.csproj.GenerateResource.Cache
